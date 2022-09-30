@@ -1,6 +1,6 @@
 require_relative 'person'
 
-class Students < Person
+class Student < Person
   def initialize(_classroom, age, name = 'Unknown', parent_permission: true)
     super(age, name, parent_permission: parent_permission)
 

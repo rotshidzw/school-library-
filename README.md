@@ -35,11 +35,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **mavhungu rotshidzwa**
+👤 **Author1**
 
-- GitHub: [@rotshidzw](https://github.com/rotshidzw)
-- Twitter: [@rotshidzwamavh1](https://twitter.com/rotshidzwamavh1)
-- LinkedIn: [rotshidzwa mavhungu](https://www.linkedin.com/in/rochidzwa-chester-8062b6211/)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 

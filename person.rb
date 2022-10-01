@@ -1,86 +1,41 @@
 #!/usr/bin/env ruby
 
-
-
 require_relative 'nameable'
-
-
 
 require_relative 'capitalize_decorator'
 
-
-
 require_relative 'trimmer_decorator'
 
-
-
 class Person < Nameable
-
   attr_accessor :name, :age
-
-
 
   attr_reader :id, :rentals
 
-<<<<<<< Updated upstream
   def initialize(age, name = 'Unknown', parent_permission: true)
-=======
-
-
-  def initialize(age, parent_permission, name = 'Unknown')
-
->>>>>>> Stashed changes
     @id = Random.rand(1..1000)
-
-
 
     @age = age
 
-
-
     @name = name
-
-
 
     @parent_permission = parent_permission
 
-
-
     @rentals = []
 
-
-
     super()
-
   end
-
-
 
   def can_use_services?
-
     of_age? || @parent_permission
-
   end
-
-
 
   def correct_name
-
     @name
-
   end
-
-
 
   private
 
-
-
   def of_age?
-
     @age >= 18
-
   end
-
 end
-

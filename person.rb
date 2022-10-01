@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 require_relative 'nameable'
 
 require_relative 'capitalize_decorator'
